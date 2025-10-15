@@ -1,3 +1,5 @@
+# AI Agent Benchmark Compendium
+
 This post provides a high-level overview to over 50 of modern benchmarks, grouped into four key categories Function Calling and Tool Use, General Assistant and Reasoning, Coding and Software Engineering and Computer Interactions.
 
 Would love to keep this up to date and extend when need benchmarks are coming up. Please Open PRs or Issues. 
