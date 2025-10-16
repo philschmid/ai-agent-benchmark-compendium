@@ -72,6 +72,12 @@ An automatic agentic pipeline meticulously designed to generate accurate, comple
 
 Links: [Paper](https://arxiv.org/abs/2409.00920)
 
+### MCPMark
+
+An evaluation suite for agentic models in real MCP tool environments (Notion / GitHub / Filesystem / Postgres / Playwright). MCPMark provides a reproducible, extensible benchmark for researchers and engineers with one-command tasks, isolated sandboxes, auto-resume for failures, unified metrics, and aggregated reports.
+
+Links: [Paper](https://arxiv.org/abs/2509.24002) | [HuggingFace Daily Paper](https://huggingface.co/papers/2509.24002) | [GitHub](https://github.com/eval-sys/mcpmark) | [Website](https://mcpmark.ai) | [Dataset](https://huggingface.co/datasets/Jakumetsu/mcpmark-trajectory-log)
+
 ### LiveMCPBench
 
 A comprehensive benchmark designed to evaluate the ability of LLM agents to navigate and effectively utilize a large-scale Model Context Protocol (MCP) toolset in real-world scenarios, overcoming limitations of single-server environments.
