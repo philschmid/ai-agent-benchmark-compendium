@@ -222,6 +222,12 @@ A benchmark designed to evaluate the performance of AI browser agents. It differ
 
 Links: [Paper](https://halluminate.ai/blog/benchmark) | [GitHub](https://github.com/Halluminate/WebBench) | [Dataset](https://huggingface.co/datasets/Halluminate/WebBench)
 
+### ClawBench: Can AI Agents Complete Everyday Online Tasks?
+
+A benchmark evaluating whether AI agents can complete real-world online tasks that everyday users routinely perform. It comprises 153 tasks across 144 live websites spanning diverse categories such as e-commerce, travel booking, food ordering, and service subscriptions, with binary success evaluation based on task completion.
+
+Links: [Paper](https://arxiv.org/abs/2604.08523) | [GitHub](https://github.com/reacher-z/ClawBench) | [Website](https://claw-bench.com) | [Dataset](https://huggingface.co/datasets/NAIL-Group/ClawBench)
+
 ### WebVoyager
 
 A foundational benchmark designed for evaluating Large Multimodal Models (LMMs) and web agents on end-to-end, real-world navigation tasks across a diverse set of popular, live websites, integrating both textual (HTML) and visual (screenshots) information.
