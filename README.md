@@ -200,6 +200,12 @@ Evaluates coding and self-correction abilities of LLMs by testing them on 225 ch
 
 Links: [GitHub](https://github.com/Aider-AI/polyglot-benchmark) | [Leaderboard](https://aider.chat/docs/leaderboards/)
 
+### GameDevBench
+
+Evaluates an LLMs capability to complete game development tasks in the Godot game engine. Consists of 132 multimodal tasks requiring scripting, scene editing, and asset manipulation. While multimodal understanding is required, tasks can be completed entirely through code.
+
+Links: [Paper](https://arxiv.org/abs/2602.11103) | [Github](https://github.com/waynchi/gamedevbench)
+
 ---
 
 ## Computer Interaction (GUI & Web)
