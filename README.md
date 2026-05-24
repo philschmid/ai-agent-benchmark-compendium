@@ -200,6 +200,12 @@ Evaluates coding and self-correction abilities of LLMs by testing them on 225 ch
 
 Links: [GitHub](https://github.com/Aider-AI/polyglot-benchmark) | [Leaderboard](https://aider.chat/docs/leaderboards/)
 
+### AWB (AI Workflow Benchmark)
+
+Evaluates whether an AI coding workflow can safely ship real software, not whether a model can pass a static issue benchmark. 100 tasks across 8 categories (bug-fix, feature-addition, refactoring, code-review, debugging, multi-file, legacy-code, workflow) run against real OSS repositories pinned at commit SHAs. Scored across 7 capability dimensions plus derived cost discipline; ships 9 tool adapters (Claude Code vanilla and custom, Cursor, Aider, Gemini CLI, Codex CLI, Windsurf, Copilot, Pi). v1.2 adds OpenTelemetry-aligned trace artifacts and a Production Readiness Score.
+
+Links: [GitHub](https://github.com/xmpuspus/ai-workflow-benchmark) | [PyPI](https://pypi.org/project/awb/) | [Methodology](https://github.com/xmpuspus/ai-workflow-benchmark/blob/main/METHODOLOGY.md)
+
 ---
 
 ## Computer Interaction (GUI & Web)
