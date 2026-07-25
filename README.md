@@ -100,6 +100,12 @@ A multi-dimensional, evolving benchmark designed to thoroughly assess the reason
 
 Links: [Paper](https://arxiv.org/abs/2308.03688) | [GitHub](https://github.com/THUDM/AgentBench) | [Leaderboard](https://github.com/THUDM/AgentBench?tab=readme-ov-file#leaderboard) | [Dataset](https://github.com/THUDM/AgentBench#dataset-summary)
 
+### PerspectiveGap: A Benchmark for Multi-Agent Orchestration Prompting
+
+The first benchmark for multi-agent orchestration prompt writing covers 110 scenarios and 10 topologies. It separates role-fragment assignment from free-form prompt writing and measures strict task success alongside omissions and cross-role information leakage.
+
+Links: [Paper](https://arxiv.org/abs/2606.08878) | [GitHub](https://github.com/WhymustIhaveaname/PerspectiveGap) | [Leaderboard](https://huggingface.co/spaces/sun1245/PerspectiveGap-Leaderboard) | [Dataset](https://huggingface.co/datasets/sun1245/PerspectiveGap)
+
 ### AssistantBench
 
 A challenging benchmark designed to evaluate the ability of web agents to automatically solve realistic and time-consuming tasks. It comprises 214 tasks that require navigating the open web, spanning multiple domains, and interacting with over 525 pages from 258 different websites.
