@@ -317,3 +317,9 @@ Links: [Paper](https://arxiv.org/abs/1912.01734) | [GitHub](https://github.com/a
 A comprehensive benchmark designed to evaluate Multi-modal Large Language Models (MLLMs) as embodied agents. It spans diverse tasks in navigation, manipulation, and high-level planning across four simulated environments.
 
 Links: [Paper](https://arxiv.org/abs/2502.09560) | [GitHub](https://github.com/EmbodiedBench/EmbodiedBench)
+
+### ClawBench
+
+A live-web benchmark for evaluating AI agents on everyday tasks across production websites, with reproducible execution traces and request-level outcome checks.
+
+Links: [Paper](https://arxiv.org/abs/2602.11670) | [GitHub](https://github.com/reacher-z/ClawBench) | [Project](https://claw-bench.com/)
