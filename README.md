@@ -252,6 +252,12 @@ A benchmarking platform specifically designed to evaluate the safety and trustwo
 
 Links: [Paper](https://arxiv.org/abs/2410.06703) | [GitHub](https://github.com/segev-shlomov/ST-WebAgentBench)
 
+### ClawBench: Can AI Agents Complete Everyday Online Tasks?
+
+A benchmark testing whether web and computer-use agents can complete everyday online tasks (purchases, bookings, job applications, email) on live production websites rather than sandboxes. A submission-interception layer (Chrome extension + CDP) blocks only the final write request so agents run end-to-end safely. 153 tasks across 144 live websites in 15 categories; best model in the paper (Claude Sonnet 4.6) reaches 33.3%.
+
+Links: [Paper](https://arxiv.org/abs/2604.08523) | [GitHub](https://github.com/TIGER-AI-Lab/ClawBench) | [Website](https://claw-bench.com/)
+
 ### OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments
 
 A first-of-its-kind scalable, real computer environment for benchmarking multimodal agents on open-ended tasks within genuine operating systems, including Windows, macOS, and Ubuntu, featuring 369 real-world tasks.
