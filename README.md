@@ -88,6 +88,12 @@ Links: [Paper](https://arxiv.org/pdf/2508.14704.pdf) | [GitHub](https://github.c
 
 ## General Assistant & Reasoning
 
+### MyriadBench: One Model, One Session, All Tasks
+
+A benchmark for single-session extreme multitasking: how much of a model's ability survives an endless session of countless interleaved, interrupted, mutually dependent tasks (research, code, scheduling, email, data, writing). Introduces the Myriad Index (MI, 0-100), a single ranking number whose components are anchored to each model's own isolated baselines — you cannot memorize your way up. Open task registry, deterministic verifiers, everyone runs the same official suite. Ships a two-model pilot grid (DeepSeek-V4-Flash + MiMo-V2.5, K=2..16 x D=0/0.6) with full traces and figures.
+
+Links: [GitHub](https://github.com/shyringo/myriad-bench) | [Pilot data](https://github.com/shyringo/myriad-bench/releases)
+
 ### GAIA (General AI Assistants)
 
 A landmark benchmark designed to evaluate General AI Assistants, posing real-world questions that are conceptually simple for humans but significantly challenging for most advanced AI systems. It requires AI models to demonstrate a combination of fundamental abilities, including reasoning, multi-modality handling, web browsing, and proficient tool use.
