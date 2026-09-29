@@ -317,3 +317,9 @@ Links: [Paper](https://arxiv.org/abs/1912.01734) | [GitHub](https://github.com/a
 A comprehensive benchmark designed to evaluate Multi-modal Large Language Models (MLLMs) as embodied agents. It spans diverse tasks in navigation, manipulation, and high-level planning across four simulated environments.
 
 Links: [Paper](https://arxiv.org/abs/2502.09560) | [GitHub](https://github.com/EmbodiedBench/EmbodiedBench)
+
+### EmbodiedMemory-Bench
+
+Evaluates long-horizon embodied memory across 2,554 AI2-THOR episodes. Agents must retain visual details, track changing world states, remember interaction outcomes, and generalize from earlier experience to execute later tasks; the released evaluator reports success rate and memory-augmented efficiency (MAE).
+
+Links: [Paper](https://arxiv.org/abs/2609.28236) | [GitHub](https://github.com/ZJU-OmniAI/Embodied-Omni/tree/main/embodied_memory) | [Project](https://zju-omniai.github.io/Embodied-Omni/EmbodiedMemoryBench/) | [Dataset](https://huggingface.co/datasets/lzLiang/EmbodiedMemoryBench)
