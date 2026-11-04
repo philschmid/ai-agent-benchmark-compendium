@@ -306,6 +306,12 @@ Evaluates AI agents in realistic enterprise scenarios that require them to go be
 
 Links: [Paper](https://github.com/EmergenceAI/emergence-benchmarks/blob/main/papers/e-web/e-web-v0.pdf) | [GitHub](https://github.com/EmergenceAI/emergence-benchmarks) | [Dataset](https://github.com/EmergenceAI/emergence-benchmarks/blob/main/benchmarks/e-web/e-web_benchmark_lite.csv)
 
+### EC²-Bench (EC2-Bench): Empowering Edge Agents: A Systematic Analysis of Edge-Cloud Collaboration in LLM Agent Execution
+
+A benchmark for edge–cloud collaboration in long-horizon agent execution, built on 128 executable digital-workspace tasks (100 with privacy annotations). Every run is scored jointly on task performance, cloud cost, and privacy exposure, and the benchmark compares query routing, per-step routing, edge-controlled delegation, and edge-controlled advisory between an edge model and a cloud model.
+
+Links: [Paper](https://arxiv.org/abs/2610.17816) | [GitHub](https://github.com/OpenBMB/EC2-Bench) | [Dataset](https://huggingface.co/datasets/chengpingan/EC2-Bench)
+
 ### ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks
 
 A benchmark for learning a mapping from natural language instructions and egocentric vision to sequences of actions for household tasks. It features long, compositional tasks in a simulated 3D environment.
